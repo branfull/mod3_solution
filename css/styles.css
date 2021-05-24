@@ -1,3 +1,7 @@
+h3 {
+  margin-top: 10px;
+}
+
 #header-nav {
   background-color: #999999;
   border-radius: 0;
@@ -21,7 +25,7 @@
 .content {
   background-color: #999999;
   color: #000;
-  mar: 15px;
+  padding: 10px;
 }
 
 .navbar-brand {
