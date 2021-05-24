@@ -1,0 +1,39 @@
+#header-nav {
+  background-color: #999999;
+  border-radius: 0;
+  border: 2px solid black;
+}
+
+#nav-list {
+  background-color: cyan;
+  margin: 0;
+}
+
+#nav-list li {
+  border: 1px solid black;
+  text-align: center;
+}
+
+#collapsable-nav {
+  padding: 0;
+}
+
+.content {
+  background-color: #999999;
+  color: #000;
+  mar: 15px;
+}
+
+.navbar-brand {
+  height: 80px;
+}
+
+.navbar-brand h1 {
+  color: #000;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.navbar-header button.navbar-toggle, .navbar-header .icon-bar {
+  border: 1px solid #000;
+}
